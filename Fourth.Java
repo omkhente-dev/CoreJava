@@ -7,3 +7,11 @@ System.out.print("Omprakash");
  }
 
 }
+
+class Thirty {
+ public static void main(String args[]) {
+System.out.print("Full stack developemt");
+System.out.print("Java");
+
+ }
+}
